@@ -111,32 +111,6 @@ I'm a **Full-Stack Developer** who enjoys going beyond simply writing code — I
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yahia-el-shamy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/channels/yuuislost" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yuu_islost" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://linktr.ee/yahia_elshamy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="Linktree" />
-  </a>
-  &nbsp;
-  <a href="mailto:y.ahmed0112000@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-  </a>
-</p>
-
----
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yahia-elshamy.yahia-elshamy" alt="Profile views" />
 </div>
